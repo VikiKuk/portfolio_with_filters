@@ -1,4 +1,4 @@
-![CI](https://github.com/VikiKuk/portfolio/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/VikiKuk/portfolio_with_filters/actions/workflows/ci.yml/badge.svg)
 
 # Портфолио с фильтрами
 
